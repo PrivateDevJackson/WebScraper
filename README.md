@@ -11,3 +11,12 @@ pip install requests beautifulsoup4
 ```
 pip install selenium
 ```
+
+And then to need to enter a registraion number at:
+
+```
+def main():
+    registration_number = "" # <--- enter your registration number here
+    data = fetch_vehicle_data(registration_number)
+
+```
