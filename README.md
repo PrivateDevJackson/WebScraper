@@ -21,3 +21,6 @@ def main():
 
 ```
 Keep in mine it only works on Danish registration numbers
+
+## Additional information
+Right now it only find the baisc infomation about the car. You could always expand it further.
