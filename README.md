@@ -16,7 +16,8 @@ And then to need to enter a registraion number at:
 
 ```
 def main():
-    registration_number = "" # <--- enter your registration number here
+    registration_number = "xx12345"
     data = fetch_vehicle_data(registration_number)
 
 ```
+Keep in mine it only works on Danish registration numbers
