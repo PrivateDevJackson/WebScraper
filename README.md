@@ -23,4 +23,5 @@ def main():
 Keep in mine it only works on Danish registration numbers
 
 ## Additional information
-Right now it only find the baisc infomation about the vehicle. You could always expand it further.
+Right now it only finds the basic infomation about the vehicle. You could always expand it further.
+Just head to https://motorregister.skat.dk/dmr-kerne/koeretoejdetaljer/visKoeretoej?execution=e7s1 and inspect the page.
